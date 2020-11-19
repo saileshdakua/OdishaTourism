@@ -1,0 +1,122 @@
+#navigation{
+
+    z-index: 10;
+    top: 0;
+    position: sticky;
+
+}
+.navbar-toggler{
+    border-style: solid;
+}
+
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+
+.navbar-nav li a
+{
+    float: right;
+    text-align:left;
+}
+
+#navigation ul li a:hover
+{
+    color:#00e1ff;
+}
+
+.nav-link
+{
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.bar{
+    text-align: center;
+    font-weight: 500;
+    font-style: bold;
+    font-size: 40px;
+    color: darkgoldenrod;
+}
+.card-footer{
+    background-color: black;
+    text-align: center;
+}
+#contact{
+    background-size: cover;
+}
+#coc{
+    text-align: center;
+    color: white;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  .fa-facebook {
+    background: #191f70;
+    color: white;
+  }
+  .fa-twitter {
+    background: #191f70;
+    color: white;
+  }
+  .fa-google {
+    background: #191f70;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #191f70;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #191f70;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background:#191f70;
+    color: white;
+  }
+  #foot{
+    background-color:
+    color: white;
+  }
+  .main{
+    font-size: 25px;
+    font-weight: 400;
+  }
+  #myc{
+    background-color: rgba(255, 238, 0, 0.438);
+  }
+  #description{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 200;
+    color: rgba(255, 0, 64, 0.685);
+  }
+  #descid{
+    color: rgba(152, 251, 152, 0.719);
+    margin-left: 180px;
+    margin-right: 180px;
+  }
+  #question{
+    background-color: powderblue;
+  }
+  #text{
+    font-size:30px;
+    font-weight: 500;  
+  }
+  #map{
+    background-color: lightseagreen;
+  }
+  #navigation1 ul li a:hover{
+    color:#fa0362;
+  }
+
